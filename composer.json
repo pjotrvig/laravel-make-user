@@ -14,7 +14,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Petervig\\LaravelMakeUser"
+                "Petervig\\LaravelMakeUser\\MakeUserServiceProvider"
             ]
         }
     }
