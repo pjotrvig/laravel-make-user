@@ -1,0 +1,21 @@
+{
+    "name": "petervig/laravel-make-user",
+    "description": "Inserts a user into the db",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Péter Víg",
+            "email": "pjotrvig@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "5.7.*"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Petervig\\LaravelMakeUser"
+            ]
+        }
+    }
+}
